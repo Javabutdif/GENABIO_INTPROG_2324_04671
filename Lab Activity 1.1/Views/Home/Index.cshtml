@@ -7,12 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
         <link href="/css/site.css"/>
+      
     </head>
-    <body>
-        <h1 class="text-center text-white bg-primary">Photo Album</h1>
+    <body class="home">
+        <h1 class="text-center text-white">Photo Album</h1>
 
         <div class="container container-fluid">
-       <table class="table ">
+        <table class="table table-borderless">
            <tbody class="text-center">
                <tr>
                     
@@ -23,6 +24,11 @@
                  
                     <td >
                     <a asp-action="paladins" asp-controller="Home"><img src="~/images/paladins/main.jpg" class="pictureImage" /></a>
+                   </td>
+               </tr>
+               <tr>
+                   <td>
+                        <a asp-action="left4dead" asp-controller="Home"><img src="~/images/l4d/icon.jpg" class="pictureImage" /></a>
                    </td>
                </tr>
            </tbody>

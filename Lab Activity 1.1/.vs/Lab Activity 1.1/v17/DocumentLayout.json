@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|c:\\users\\james\\desktop\\intprog\\lab activity 1.1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|c:\\users\\james\\desktop\\intprog\\lab activity 1.1\\views\\home\\left4dead.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|solutionrelative:views\\home\\left4dead.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|c:\\users\\james\\desktop\\intprog\\lab activity 1.1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|c:\\users\\james\\desktop\\intprog\\lab activity 1.1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|c:\\users\\james\\desktop\\intprog\\lab activity 1.1\\views\\home\\paladins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|solutionrelative:views\\home\\paladins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|c:\\users\\james\\desktop\\intprog\\lab activity 1.1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|c:\\users\\james\\desktop\\intprog\\lab activity 1.1\\views\\home\\lol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|c:\\users\\james\\desktop\\intprog\\lab activity 1.1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|c:\\users\\james\\desktop\\intprog\\lab activity 1.1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02322288-1238-426B-8E60-448EBEE0CA0E}|Lab Activity 1.1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,68 +38,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAABUAAAAAAAAAAAAgwCgAAAARAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwEkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-02-23T17:31:24.099Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "left4dead.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Views\\Home\\left4dead.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\left4dead.cshtml",
+              "ToolTip": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Views\\Home\\left4dead.cshtml",
+              "RelativeToolTip": "Views\\Home\\left4dead.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T19:58:47.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "paladins.cshtml",
               "DocumentMoniker": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Views\\Home\\paladins.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\paladins.cshtml",
               "ToolTip": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Views\\Home\\paladins.cshtml",
               "RelativeToolTip": "Views\\Home\\paladins.cshtml",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAmwHkAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-23T18:53:24.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-23T18:53:24.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBoAAAAIAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T17:31:24.23Z"
+              "WhenOpened": "2024-02-23T17:31:24.23Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "lol.cshtml",
               "DocumentMoniker": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Views\\Home\\lol.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\lol.cshtml",
               "ToolTip": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Views\\Home\\lol.cshtml",
               "RelativeToolTip": "Views\\Home\\lol.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBEAAAAbAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBcAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-23T17:31:24.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABwAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAABxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-23T17:31:24.248Z"
             },
@@ -107,7 +123,7 @@
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBgAAAArAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-23T17:31:24.256Z",
               "EditorCaption": ""

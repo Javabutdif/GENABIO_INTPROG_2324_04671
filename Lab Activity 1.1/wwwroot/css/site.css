@@ -23,7 +23,8 @@ body {
 
 a:hover {
     opacity:75%;
-    image-orientation:from-image;
+   
+  
 }
 .lolBody{
     background-color:black;
@@ -35,6 +36,10 @@ a:hover {
 .pictureImage{
     height:200px;
     width:300px;
+}
+.pictureImage:hover{
+    border:solid;
+    border-color:blue;
 }
 .pictureLol {
     height: 200px;
@@ -48,6 +53,25 @@ a:hover {
 .paladinsBody {
     background-color: black;
     background-image: url("/images/paladins/mainbg.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    align-items: center;
+}
+.home {
+    background-color: black;
+    background-image: url("/images/bg.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    align-items: center;
+}
+hr{
+    border:solid;
+    border-color:white;
+    border-width:3px;
+}
+.l4dBody {
+    background-color: black;
+    background-image: url("/images/l4d/main.jpg");
     background-attachment: fixed;
     background-size: cover;
     align-items: center;

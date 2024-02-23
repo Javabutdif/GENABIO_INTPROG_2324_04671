@@ -13,6 +13,106 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\bill.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\bill.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\boomer.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\boomer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\charger.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\charger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\coach.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\coach.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\deadcenter.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\deadcenter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\ellis.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\ellis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\francis.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\francis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\hardrain.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\hardrain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\hunter.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\hunter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\icon.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\icon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\jocky.png",
+      "PackagePath": "staticwebassets\\images\\l4d\\jocky.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\l4d\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\logo2.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\logo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\louis.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\louis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\main.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\main.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\nick.png",
+      "PackagePath": "staticwebassets\\images\\l4d\\nick.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\nomercy.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\nomercy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\rochelle.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\rochelle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\smoker.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\smoker.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\spitter.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\spitter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\swamp.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\swamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\tank.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\tank.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\witch.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\witch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\zoe.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\zoe.jpg"
+    },
+    {
       "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\aatrox1.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\aatrox1.jpg"
     },

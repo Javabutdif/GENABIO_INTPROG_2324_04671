@@ -1,27 +1,31 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-<!doctype html>
+
     <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
         <link href="/css/site.css"/>
     </head>
     <body>
         <h1 class="text-center text-white bg-primary">Photo Album</h1>
 
-        <div class="d-grid">
-            <div class="list-group-item">
+        <div class="container container-fluid">
+       <table class="table ">
+           <tbody class="text-center">
+               <tr>
+                    
+                   <td>
 
-            <a asp-action="lol" asp-controller="Home"><img src="~/images/lol/main.jpg" class="col-4" style="height:300px; width:300px" /></a>
-            <h1>League of Legends</h1>
-          
-            </div>
-        <div class="list-group-item">
-            <a><img src="~/images/paladins/main.jpg" class="col-4" style="height:300px; width:300px" /></a>
-
-             </div>
-
-        </div>
-
+                        <a asp-action="lol" asp-controller="Home"><img src="~/images/lol/main.jpg" class="pictureImage" /></a>
+                   </td>
+                 
+                    <td >
+                    <a asp-action="paladins" asp-controller="Home"><img src="~/images/paladins/main.jpg" class="pictureImage" /></a>
+                   </td>
+               </tr>
+           </tbody>
+       </table>
+    </div>
     </body>
-</html>

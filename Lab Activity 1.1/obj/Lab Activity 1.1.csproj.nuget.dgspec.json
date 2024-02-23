@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\Lab Activity 1.1.csproj": {}
+    "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Lab Activity 1.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\Lab Activity 1.1.csproj": {
+    "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Lab Activity 1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\Lab Activity 1.1.csproj",
+        "projectUniqueName": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Lab Activity 1.1.csproj",
         "projectName": "Lab Activity 1.1",
-        "projectPath": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\Lab Activity 1.1.csproj",
-        "packagesPath": "C:\\Users\\uu639\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\",
+        "projectPath": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\Lab Activity 1.1.csproj",
+        "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\uu639\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\james\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +39,22 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,263 +1,435 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab Activity 1.1.bundle.scp.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab Activity 1.1.bundle.scp.css",
       "PackagePath": "staticwebassets\\Lab Activity 1.1.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\aatrox1.jpg",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\aatrox1.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\aatrox1.jpg"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\main.jpg",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\ahri.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\ahri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\akali.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\akali.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\alistar.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\alistar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\amumu.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\amumu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\anivia.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\anivia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\annie.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\annie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\ashe.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\ashe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\aur.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\aur.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\azir.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\azir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\bard.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\bard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\blitz.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\blitz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\brand.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\brand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\braum.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\braum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\caitlyn.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\caitlyn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\camille.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\camille.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\diana.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\diana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\elise.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\elise.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\fiora.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\fiora.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\jhin.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\jhin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\logo.png",
+      "PackagePath": "staticwebassets\\images\\lol\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\main.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\main.jpg"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\text.jpg",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\mainbg.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\mainbg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\text.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\text.jpg"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\main.jpg",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\andro.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\andro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\ash.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\ash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\atlas.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\atlas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\cassie.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\cassie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\evie.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\evie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\fernando.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\fernando.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\inara.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\inara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\jenos.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\jenos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\kinessa.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\kinessa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\koga.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\koga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\lex.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\lex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\lian.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\lian.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\logoo.png",
+      "PackagePath": "staticwebassets\\images\\paladins\\logoo.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\maeve.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\maeve.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\main.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\main.jpg"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\mainbg.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\mainbg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\makoa.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\makoa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\maldamba.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\maldamba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\pip.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\pip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\seris.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\seris.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\tyra.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\tyra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\viktor.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\viktor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\ying.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\ying.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

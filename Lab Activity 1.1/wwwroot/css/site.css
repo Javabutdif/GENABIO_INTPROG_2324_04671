@@ -25,6 +25,26 @@ a:hover {
     opacity:75%;
     image-orientation:from-image;
 }
-.grid-container{
-    display:grid;
+.lolBody{
+    background-color:black;
+    background-image:url("/images/lol/mainbg.jpg");
+    background-attachment:fixed;
+    background-size:cover;
+    align-items:center;
+}
+.pictureImage{
+    height:200px;
+    width:300px;
+}
+.pictureLol {
+    height: 200px;
+    width: 250px;
+   
+}
+.paladinsBody {
+    background-color: black;
+    background-image: url("/images/paladins/mainbg.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    align-items: center;
 }

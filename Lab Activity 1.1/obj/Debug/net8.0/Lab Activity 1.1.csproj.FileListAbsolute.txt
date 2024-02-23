@@ -1,0 +1,31 @@
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\bin\Debug\net8.0\appsettings.json
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\bin\Debug\net8.0\Lab Activity 1.1.staticwebassets.runtime.json
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\bin\Debug\net8.0\Lab Activity 1.1.exe
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\bin\Debug\net8.0\Lab Activity 1.1.deps.json
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\bin\Debug\net8.0\Lab Activity 1.1.runtimeconfig.json
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\bin\Debug\net8.0\Lab Activity 1.1.dll
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\bin\Debug\net8.0\Lab Activity 1.1.pdb
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\Lab Activity 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\Lab Activity 1.1.AssemblyInfoInputs.cache
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\Lab Activity 1.1.AssemblyInfo.cs
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\Lab Activity 1.1.csproj.CoreCompileInputs.cache
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\Lab Activity 1.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\Lab Activity 1.1.RazorAssemblyInfo.cache
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\Lab Activity 1.1.RazorAssemblyInfo.cs
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\Lab Activity 1.1.sourcelink.json
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\staticwebassets\msbuild.Lab Activity 1.1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\staticwebassets\msbuild.build.Lab Activity 1.1.props
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Lab Activity 1.1.props
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Lab Activity 1.1.props
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\scopedcss\bundle\Lab Activity 1.1.styles.css
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\scopedcss\projectbundle\Lab Activity 1.1.bundle.scp.css
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\Lab Activity 1.1.dll
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\refint\Lab Activity 1.1.dll
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\Lab Activity 1.1.pdb
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\Lab Activity 1.1.genruntimeconfig.cache
+C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\obj\Debug\net8.0\ref\Lab Activity 1.1.dll

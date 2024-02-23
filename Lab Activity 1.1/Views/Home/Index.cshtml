@@ -1,8 +1,24 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+<!doctype html>
+    <head>
+        <link href="/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+        <link href="/css/site.css"/>
+    </head>
+    <body>
+        <h1 class="text-center text-white bg-primary">Photo Album</h1>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+        <div class="container-sm">
+            <div class="d-flex gap-2 ">
+
+            <a asp-action="lol" asp-controller="Home"><img src="~/images/lol/main.jpg" class="col-4" style="height:300px; width:300px" /></a>
+
+            <a><img src="~/images/paladins/main.jpg" class="col-4" style="height:300px; width:300px" /></a>
+            
+            </div>
+
+        </div>
+
+    </body>
+</html>

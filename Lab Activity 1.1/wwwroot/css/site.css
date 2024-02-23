@@ -20,3 +20,8 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+a:hover {
+    opacity:75%;
+    image-orientation:from-image;
+}

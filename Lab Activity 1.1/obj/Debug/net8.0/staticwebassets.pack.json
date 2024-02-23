@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\aatrox1.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\aatrox1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\main.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\main.jpg"
+    },
+    {
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\text.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\text.jpg"
+    },
+    {
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\main.jpg",
+      "PackagePath": "staticwebassets\\images\\paladins\\main.jpg"
+    },
+    {
       "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

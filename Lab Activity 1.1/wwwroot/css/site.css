@@ -25,3 +25,6 @@ a:hover {
     opacity:75%;
     image-orientation:from-image;
 }
+.grid-container{
+    display:grid;
+}

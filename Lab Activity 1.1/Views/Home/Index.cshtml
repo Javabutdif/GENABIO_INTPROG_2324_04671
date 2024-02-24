@@ -8,32 +8,51 @@
         <link href="/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
         <link href="/css/site.css"/>
         <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
-      
+        <style>
+            img{
+                height:400px;
+                
+            }
+        </style>
     </head>
     <body class="home">
         <h1 class="text-center text-white">Photo Album</h1>
-        <div class="container container-fluid">
-        <table class="table table-borderless">
-           <tbody class="text-center">
-               <tr>
-                    
-                   <td>
 
-                        <a asp-action="lol" asp-controller="Home"><img src="~/images/lol/main.jpg" class="pictureImage" /></a>
-                   </td>
-                 
-                    <td >
-                    <a asp-action="paladins" asp-controller="Home"><img src="~/images/paladins/main.jpg" class="pictureImage" /></a>
-                   </td>
-               </tr>
-               <tr>
-                   <td>
-                        <a asp-action="left4dead" asp-controller="Home"><img src="~/images/l4d/icon.jpg" class="pictureImage" /></a>
-                   </td>
-               </tr>
-           </tbody>
-       </table>
+    <div id="carouselExample" class="carousel slide">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <a asp-action="lol" asp-controller="Home">
+                <img src="~/images/lol/main.jpg" class="d-block w-100" alt="..."></a>
+            </div>
+            <div class="carousel-item">
+                <a asp-action="paladins" asp-controller="Home">
+                <img src="~/images/paladins/main.jpg" class="d-block w-100" alt="..."></a>
+            </div>
+            <div class="carousel-item">
+                <a asp-action="left4dead" asp-controller="Home">
+                <img src="~/images/l4d/icon.jpg" class="d-block w-100" alt="..."></a>
+            </div>
+            <div class="carousel-item">
+                <a asp-action="solo" asp-controller="Home">
+                <img src="~/images/solo/wallpaperflare.com_wallpaper.jpg" class="d-block w-100" alt="..."></a>
+            </div>
+            <div class="carousel-item">
+                <a asp-action="slime" asp-controller="Home">
+                    <img src="~/images/slime/991880.jpg" class="d-block w-100" alt="...">
+                </a>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
     </div>
+
+
     
     < script src = "~/lib/jquery/dist/jquery.min.js" ></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

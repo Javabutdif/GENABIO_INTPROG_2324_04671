@@ -301,6 +301,110 @@
       "PackagePath": "staticwebassets\\images\\paladins\\ying.jpg"
     },
     {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\986223.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\986223.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\991880.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\991880.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\adalmann.webp",
+      "PackagePath": "staticwebassets\\images\\slime\\adalmann.webp"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\benimaru.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\benimaru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\carrera.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\carrera.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\dagruel.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\dagruel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\diablo.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\diablo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\dino.jpeg",
+      "PackagePath": "staticwebassets\\images\\slime\\dino.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\gabiru.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\gabiru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\geld.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\geld.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\guy.webp",
+      "PackagePath": "staticwebassets\\images\\slime\\guy.webp"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\kumara.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\kumara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\leon.webp",
+      "PackagePath": "staticwebassets\\images\\slime\\leon.webp"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\logo.webp",
+      "PackagePath": "staticwebassets\\images\\slime\\logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\logo__1_-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\slime\\logo__1_-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\milim.png",
+      "PackagePath": "staticwebassets\\images\\slime\\milim.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ramiris.webp",
+      "PackagePath": "staticwebassets\\images\\slime\\ramiris.webp"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ranga.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\ranga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\rimuru.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\rimuru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\rimuruu.jpeg",
+      "PackagePath": "staticwebassets\\images\\slime\\rimuruu.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\shion.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\shion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\testarossa.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\testarossa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ultima.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\ultima.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\valentine.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\valentine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\zegion.jpg",
+      "PackagePath": "staticwebassets\\images\\slime\\zegion.jpg"
+    },
+    {
       "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Antares1.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\Antares1.jpg"
     },
@@ -395,6 +499,10 @@
     {
       "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\tusk.jpeg",
       "PackagePath": "staticwebassets\\images\\solo\\tusk.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\wallpaperflare.com_wallpaper.jpg",
+      "PackagePath": "staticwebassets\\images\\solo\\wallpaperflare.com_wallpaper.jpg"
     },
     {
       "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\js\\site.js",

@@ -10,23 +10,26 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 bg-opacity-75 position-sticky">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">PhotoAlbum_Genabio</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between gap-2">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="lol">League of Legends</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="lol"> <img class="navImage" src="/images/lol/logo.png" style="height:40px; width:80px" /></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="paladins">Paladins</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="paladins"> <img class="navImage" src="/images/paladins/logoo.png" style="height:30px; width:80px" /></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="left4dead">Left 4 Dead</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="left4dead"> <img class="navImage" src="/images/l4d/logo1.png" style="height:40px; width:90px" /></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="solo"> <img class="navImage" src="/images/solo/logo-removebg-preview.png" style="height:30px; width:90px" /></a>
                         </li>
                     </ul>
                 </div>

@@ -301,6 +301,102 @@
       "PackagePath": "staticwebassets\\images\\paladins\\ying.jpg"
     },
     {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Antares1.jpg",
+      "PackagePath": "staticwebassets\\images\\solo\\Antares1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Frosty5.webp",
+      "PackagePath": "staticwebassets\\images\\solo\\Frosty5.webp"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Legia8.webp",
+      "PackagePath": "staticwebassets\\images\\solo\\Legia8.webp"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Querehsha1.webp",
+      "PackagePath": "staticwebassets\\images\\solo\\Querehsha1.webp"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Yogumunt3.webp",
+      "PackagePath": "staticwebassets\\images\\solo\\Yogumunt3.webp"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\baran.jpg",
+      "PackagePath": "staticwebassets\\images\\solo\\baran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\beast.png",
+      "PackagePath": "staticwebassets\\images\\solo\\beast.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\bellion.webp",
+      "PackagePath": "staticwebassets\\images\\solo\\bellion.webp"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\beru.jpg",
+      "PackagePath": "staticwebassets\\images\\solo\\beru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\solo\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\greed.webp",
+      "PackagePath": "staticwebassets\\images\\solo\\greed.webp"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\igris.jpg",
+      "PackagePath": "staticwebassets\\images\\solo\\igris.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\iron.jpg",
+      "PackagePath": "staticwebassets\\images\\solo\\iron.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\ironbody.jpg",
+      "PackagePath": "staticwebassets\\images\\solo\\ironbody.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\jima.jpg",
+      "PackagePath": "staticwebassets\\images\\solo\\jima.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\kaisel.png",
+      "PackagePath": "staticwebassets\\images\\solo\\kaisel.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\kamish.jpg",
+      "PackagePath": "staticwebassets\\images\\solo\\kamish.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\logo-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\solo\\logo-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\main.jpg",
+      "PackagePath": "staticwebassets\\images\\solo\\main.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\plague.jpg",
+      "PackagePath": "staticwebassets\\images\\solo\\plague.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\queen.webp",
+      "PackagePath": "staticwebassets\\images\\solo\\queen.webp"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\sung.jpg",
+      "PackagePath": "staticwebassets\\images\\solo\\sung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\tank.png",
+      "PackagePath": "staticwebassets\\images\\solo\\tank.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\tusk.jpeg",
+      "PackagePath": "staticwebassets\\images\\solo\\tusk.jpeg"
+    },
+    {
       "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

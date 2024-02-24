@@ -42,7 +42,7 @@ a:hover {
     border-color:blue;
 }
 .pictureLol {
-    height: 200px;
+    height: 250px;
     width: 250px;
     transition: transform .2s;
    
@@ -72,6 +72,19 @@ hr{
 .l4dBody {
     background-color: black;
     background-image: url("/images/l4d/main.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    align-items: center;
+}
+.navImage {
+    transition: transform .2s;
+}
+.navImage:hover {
+    transform: scale(1.5);
+}
+.soloBody {
+    background-color: black;
+    background-image: url("/images/solo/main.jpg");
     background-attachment: fixed;
     background-size: cover;
     align-items: center;

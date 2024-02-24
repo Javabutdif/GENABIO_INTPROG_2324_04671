@@ -33,6 +33,10 @@ namespace Lab_Activity_1._1.Controllers
         {
             return View();
         }
+        public IActionResult solo()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

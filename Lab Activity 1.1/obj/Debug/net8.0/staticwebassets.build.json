@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L+g8dSWoYZ833+IKd1YWrlFPWytH3gC9tLKU1TwCHzg=",
+  "Hash": "Pxft1+JxAo1jIF2JvV08+Y2KIpyFqHpiHWEKvuYeK7c=",
   "Source": "Lab Activity 1.1",
   "BasePath": "_content/Lab Activity 1.1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Lab Activity 1.1\\wwwroot",
       "Source": "Lab Activity 1.1",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Lab Activity 1.1.styles.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Lab Activity 1.1.styles.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "Lab Activity 1.1.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Lab Activity 1.1.styles.css"
+      "OriginalItemSpec": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Lab Activity 1.1.styles.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab Activity 1.1.bundle.scp.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab Activity 1.1.bundle.scp.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "Lab Activity 1.1.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab Activity 1.1.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab Activity 1.1.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\css\\site.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\favicon.ico",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\bg.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\bg.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/bg.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\bill.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\bill.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/bill.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\bill.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\boomer.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\boomer.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/boomer.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\boomer.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\charger.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\charger.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/charger.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\charger.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\coach.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\coach.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/coach.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\coach.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\deadcenter.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\deadcenter.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/deadcenter.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\deadcenter.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\ellis.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\ellis.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/ellis.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\ellis.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\francis.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\francis.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/francis.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\francis.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\hardrain.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\hardrain.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/hardrain.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\hardrain.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\hunter.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\hunter.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/hunter.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\hunter.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\icon.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\icon.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/icon.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\icon.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\jocky.png",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\jocky.png",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/jocky.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\jocky.png"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\logo1.png",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\logo1.png",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/logo1.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\logo1.png"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\logo2.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\logo2.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/logo2.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\logo2.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\louis.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\louis.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/louis.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\louis.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\main.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\main.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/main.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\main.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\nick.png",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\nick.png",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/nick.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\nick.png"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\nomercy.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\nomercy.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/nomercy.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\nomercy.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\rochelle.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\rochelle.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/rochelle.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\rochelle.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\smoker.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\smoker.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/smoker.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\smoker.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\spitter.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\spitter.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/spitter.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\spitter.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\swamp.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\swamp.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/swamp.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\swamp.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\tank.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\tank.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/tank.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\tank.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\witch.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\witch.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/witch.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\witch.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\zoe.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\zoe.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/l4d/zoe.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\l4d\\zoe.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\aatrox1.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\aatrox1.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/aatrox1.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\aatrox1.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\ahri.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\ahri.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/ahri.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\ahri.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\akali.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\akali.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/akali.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\akali.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\alistar.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\alistar.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/alistar.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\alistar.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\amumu.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\amumu.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/amumu.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\amumu.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\anivia.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\anivia.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/anivia.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\anivia.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\annie.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\annie.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/annie.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\annie.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\ashe.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\ashe.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/ashe.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\ashe.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\aur.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\aur.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/aur.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\aur.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\azir.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\azir.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/azir.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\azir.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\bard.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\bard.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/bard.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\bard.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\blitz.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\blitz.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/blitz.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\blitz.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\brand.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\brand.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/brand.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\brand.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\braum.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\braum.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/braum.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\braum.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\caitlyn.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\caitlyn.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/caitlyn.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\caitlyn.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\camille.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\camille.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/camille.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\camille.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\diana.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\diana.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/diana.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\diana.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\elise.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\elise.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/elise.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\elise.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\fiora.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\fiora.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/fiora.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\fiora.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\jhin.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\jhin.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/jhin.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\jhin.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\logo.png",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\logo.png",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/logo.png",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\main.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\main.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/main.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\main.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\mainbg.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\mainbg.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/mainbg.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\mainbg.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\text.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\text.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/lol/text.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lol\\text.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\andro.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\andro.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/andro.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\andro.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\ash.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\ash.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/ash.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\ash.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\atlas.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\atlas.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/atlas.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\atlas.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\cassie.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\cassie.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/cassie.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\cassie.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\evie.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\evie.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/evie.jpg",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\evie.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\fernando.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\fernando.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/fernando.jpg",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\fernando.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\inara.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\inara.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/inara.jpg",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\inara.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\jenos.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\jenos.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/jenos.jpg",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\jenos.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\kinessa.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\kinessa.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/kinessa.jpg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\kinessa.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\koga.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\koga.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/koga.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\koga.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\lex.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\lex.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/lex.jpg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\lex.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\lian.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\lian.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/lian.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\lian.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\logoo.png",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\logoo.png",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/logoo.png",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\logoo.png"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\maeve.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\maeve.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/maeve.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\maeve.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\main.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\main.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/main.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\main.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\mainbg.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\mainbg.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/mainbg.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\mainbg.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\makoa.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\makoa.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/makoa.jpg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\makoa.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\maldamba.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\maldamba.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/maldamba.jpg",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\maldamba.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\pip.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\pip.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/pip.jpg",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\pip.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\seris.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\seris.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/seris.jpg",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\seris.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\tyra.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\tyra.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/tyra.jpg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\tyra.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\viktor.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\viktor.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/viktor.jpg",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\viktor.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\ying.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\ying.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/paladins/ying.jpg",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\images\\paladins\\ying.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\986223.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\986223.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/986223.jpg",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\986223.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\991880.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\991880.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/991880.jpg",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\991880.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\adalmann.webp",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\adalmann.webp",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/adalmann.webp",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\adalmann.webp"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\benimaru.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\benimaru.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/benimaru.jpg",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\benimaru.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\bg.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\bg.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/bg.jpg",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\carrera.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\carrera.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/carrera.jpg",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\carrera.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\dagruel.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\dagruel.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/dagruel.jpg",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\dagruel.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\diablo.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\diablo.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/diablo.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\diablo.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\dino.jpeg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\dino.jpeg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/dino.jpeg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\dino.jpeg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\gabiru.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\gabiru.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/gabiru.jpg",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\gabiru.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\geld.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\geld.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/geld.jpg",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\geld.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\guy.webp",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\guy.webp",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/guy.webp",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\guy.webp"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\kumara.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\kumara.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/kumara.jpg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\kumara.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\leon.webp",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\leon.webp",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/leon.webp",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\leon.webp"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\logo.webp",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\logo.webp",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/logo.webp",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\logo.webp"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\logo__1_-removebg-preview.png",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\logo__1_-removebg-preview.png",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/logo__1_-removebg-preview.png",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\logo__1_-removebg-preview.png"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\milim.png",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\milim.png",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/milim.png",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\milim.png"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ramiris.webp",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ramiris.webp",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/ramiris.webp",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\ramiris.webp"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ranga.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ranga.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/ranga.jpg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\ranga.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\rimuru.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\rimuru.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/rimuru.jpg",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\rimuru.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\rimuruu.jpeg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\rimuruu.jpeg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/rimuruu.jpeg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\rimuruu.jpeg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\shion.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\shion.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/shion.jpg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\shion.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\testarossa.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\testarossa.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/testarossa.jpg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\testarossa.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ultima.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ultima.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/ultima.jpg",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\ultima.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\valentine.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\valentine.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/valentine.jpg",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\valentine.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\zegion.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\zegion.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/slime/zegion.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slime\\zegion.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Antares1.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Antares1.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/Antares1.jpg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\Antares1.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\baran.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\baran.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/baran.jpg",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\baran.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\beast.png",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\beast.png",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/beast.png",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\beast.png"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\bellion.webp",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\bellion.webp",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/bellion.webp",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\bellion.webp"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\beru.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\beru.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/beru.jpg",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\beru.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\bg.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\bg.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/bg.jpg",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Frosty5.webp",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Frosty5.webp",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/Frosty5.webp",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\Frosty5.webp"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\greed.webp",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\greed.webp",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/greed.webp",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\greed.webp"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\igris.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\igris.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/igris.jpg",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\igris.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\iron.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\iron.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/iron.jpg",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\iron.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\ironbody.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\ironbody.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/ironbody.jpg",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\ironbody.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\jima.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\jima.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/jima.jpg",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\jima.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\kaisel.png",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\kaisel.png",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/kaisel.png",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\kaisel.png"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\kamish.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\kamish.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/kamish.jpg",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\kamish.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Legia8.webp",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Legia8.webp",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/Legia8.webp",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\Legia8.webp"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\logo-removebg-preview.png",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\logo-removebg-preview.png",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/logo-removebg-preview.png",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\logo-removebg-preview.png"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\main.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\main.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/main.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\main.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\plague.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\plague.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/plague.jpg",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\plague.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\queen.webp",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\queen.webp",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/queen.webp",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\queen.webp"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Querehsha1.webp",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Querehsha1.webp",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/Querehsha1.webp",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\Querehsha1.webp"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\sung.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\sung.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/sung.jpg",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\sung.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\tank.png",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\tank.png",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/tank.png",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\tank.png"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\tusk.jpeg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\tusk.jpeg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/tusk.jpeg",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\tusk.jpeg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\wallpaperflare.com_wallpaper.jpg",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\wallpaperflare.com_wallpaper.jpg",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/wallpaperflare.com_wallpaper.jpg",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\wallpaperflare.com_wallpaper.jpg"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Yogumunt3.webp",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Yogumunt3.webp",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "images/solo/Yogumunt3.webp",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\images\\solo\\Yogumunt3.webp"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\js\\site.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Lab Activity 1.1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\",
       "BasePath": "_content/Lab Activity 1.1",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

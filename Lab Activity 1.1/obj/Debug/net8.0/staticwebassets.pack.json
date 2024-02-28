@@ -1,739 +1,739 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab Activity 1.1.bundle.scp.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab Activity 1.1.bundle.scp.css",
       "PackagePath": "staticwebassets\\Lab Activity 1.1.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\bg.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\bg.jpg",
       "PackagePath": "staticwebassets\\images\\bg.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\bill.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\bill.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\bill.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\boomer.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\boomer.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\boomer.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\charger.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\charger.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\charger.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\coach.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\coach.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\coach.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\deadcenter.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\deadcenter.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\deadcenter.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\ellis.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\ellis.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\ellis.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\francis.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\francis.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\francis.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\hardrain.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\hardrain.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\hardrain.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\hunter.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\hunter.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\hunter.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\icon.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\icon.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\icon.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\jocky.png",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\jocky.png",
       "PackagePath": "staticwebassets\\images\\l4d\\jocky.png"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\logo1.png",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\logo1.png",
       "PackagePath": "staticwebassets\\images\\l4d\\logo1.png"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\logo2.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\logo2.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\logo2.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\louis.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\louis.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\louis.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\main.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\main.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\main.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\nick.png",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\nick.png",
       "PackagePath": "staticwebassets\\images\\l4d\\nick.png"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\nomercy.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\nomercy.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\nomercy.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\rochelle.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\rochelle.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\rochelle.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\smoker.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\smoker.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\smoker.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\spitter.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\spitter.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\spitter.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\swamp.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\swamp.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\swamp.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\tank.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\tank.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\tank.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\witch.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\witch.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\witch.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\zoe.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\zoe.jpg",
       "PackagePath": "staticwebassets\\images\\l4d\\zoe.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\aatrox1.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\aatrox1.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\aatrox1.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\ahri.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\ahri.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\ahri.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\akali.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\akali.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\akali.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\alistar.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\alistar.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\alistar.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\amumu.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\amumu.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\amumu.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\anivia.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\anivia.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\anivia.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\annie.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\annie.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\annie.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\ashe.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\ashe.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\ashe.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\aur.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\aur.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\aur.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\azir.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\azir.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\azir.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\bard.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\bard.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\bard.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\blitz.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\blitz.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\blitz.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\brand.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\brand.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\brand.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\braum.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\braum.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\braum.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\caitlyn.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\caitlyn.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\caitlyn.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\camille.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\camille.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\camille.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\diana.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\diana.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\diana.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\elise.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\elise.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\elise.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\fiora.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\fiora.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\fiora.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\jhin.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\jhin.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\jhin.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\logo.png",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\logo.png",
       "PackagePath": "staticwebassets\\images\\lol\\logo.png"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\main.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\main.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\main.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\mainbg.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\mainbg.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\mainbg.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\text.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\text.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\text.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\andro.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\andro.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\andro.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\ash.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\ash.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\ash.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\atlas.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\atlas.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\atlas.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\cassie.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\cassie.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\cassie.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\evie.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\evie.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\evie.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\fernando.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\fernando.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\fernando.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\inara.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\inara.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\inara.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\jenos.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\jenos.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\jenos.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\kinessa.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\kinessa.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\kinessa.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\koga.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\koga.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\koga.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\lex.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\lex.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\lex.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\lian.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\lian.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\lian.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\logoo.png",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\logoo.png",
       "PackagePath": "staticwebassets\\images\\paladins\\logoo.png"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\maeve.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\maeve.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\maeve.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\main.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\main.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\main.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\mainbg.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\mainbg.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\mainbg.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\makoa.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\makoa.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\makoa.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\maldamba.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\maldamba.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\maldamba.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\pip.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\pip.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\pip.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\seris.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\seris.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\seris.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\tyra.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\tyra.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\tyra.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\viktor.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\viktor.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\viktor.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\ying.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\paladins\\ying.jpg",
       "PackagePath": "staticwebassets\\images\\paladins\\ying.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\986223.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\986223.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\986223.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\991880.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\991880.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\991880.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\adalmann.webp",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\adalmann.webp",
       "PackagePath": "staticwebassets\\images\\slime\\adalmann.webp"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\benimaru.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\benimaru.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\benimaru.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\bg.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\bg.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\bg.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\carrera.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\carrera.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\carrera.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\dagruel.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\dagruel.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\dagruel.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\diablo.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\diablo.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\diablo.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\dino.jpeg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\dino.jpeg",
       "PackagePath": "staticwebassets\\images\\slime\\dino.jpeg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\gabiru.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\gabiru.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\gabiru.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\geld.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\geld.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\geld.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\guy.webp",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\guy.webp",
       "PackagePath": "staticwebassets\\images\\slime\\guy.webp"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\kumara.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\kumara.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\kumara.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\leon.webp",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\leon.webp",
       "PackagePath": "staticwebassets\\images\\slime\\leon.webp"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\logo.webp",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\logo.webp",
       "PackagePath": "staticwebassets\\images\\slime\\logo.webp"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\logo__1_-removebg-preview.png",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\logo__1_-removebg-preview.png",
       "PackagePath": "staticwebassets\\images\\slime\\logo__1_-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\milim.png",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\milim.png",
       "PackagePath": "staticwebassets\\images\\slime\\milim.png"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ramiris.webp",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ramiris.webp",
       "PackagePath": "staticwebassets\\images\\slime\\ramiris.webp"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ranga.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ranga.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\ranga.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\rimuru.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\rimuru.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\rimuru.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\rimuruu.jpeg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\rimuruu.jpeg",
       "PackagePath": "staticwebassets\\images\\slime\\rimuruu.jpeg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\shion.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\shion.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\shion.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\testarossa.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\testarossa.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\testarossa.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ultima.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\ultima.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\ultima.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\valentine.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\valentine.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\valentine.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\zegion.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\slime\\zegion.jpg",
       "PackagePath": "staticwebassets\\images\\slime\\zegion.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Antares1.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Antares1.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\Antares1.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Frosty5.webp",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Frosty5.webp",
       "PackagePath": "staticwebassets\\images\\solo\\Frosty5.webp"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Legia8.webp",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Legia8.webp",
       "PackagePath": "staticwebassets\\images\\solo\\Legia8.webp"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Querehsha1.webp",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Querehsha1.webp",
       "PackagePath": "staticwebassets\\images\\solo\\Querehsha1.webp"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Yogumunt3.webp",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\Yogumunt3.webp",
       "PackagePath": "staticwebassets\\images\\solo\\Yogumunt3.webp"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\baran.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\baran.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\baran.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\beast.png",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\beast.png",
       "PackagePath": "staticwebassets\\images\\solo\\beast.png"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\bellion.webp",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\bellion.webp",
       "PackagePath": "staticwebassets\\images\\solo\\bellion.webp"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\beru.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\beru.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\beru.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\bg.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\bg.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\bg.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\greed.webp",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\greed.webp",
       "PackagePath": "staticwebassets\\images\\solo\\greed.webp"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\igris.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\igris.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\igris.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\iron.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\iron.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\iron.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\ironbody.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\ironbody.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\ironbody.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\jima.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\jima.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\jima.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\kaisel.png",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\kaisel.png",
       "PackagePath": "staticwebassets\\images\\solo\\kaisel.png"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\kamish.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\kamish.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\kamish.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\logo-removebg-preview.png",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\logo-removebg-preview.png",
       "PackagePath": "staticwebassets\\images\\solo\\logo-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\main.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\main.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\main.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\plague.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\plague.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\plague.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\queen.webp",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\queen.webp",
       "PackagePath": "staticwebassets\\images\\solo\\queen.webp"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\sung.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\sung.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\sung.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\tank.png",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\tank.png",
       "PackagePath": "staticwebassets\\images\\solo\\tank.png"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\tusk.jpeg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\tusk.jpeg",
       "PackagePath": "staticwebassets\\images\\solo\\tusk.jpeg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\wallpaperflare.com_wallpaper.jpg",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\solo\\wallpaperflare.com_wallpaper.jpg",
       "PackagePath": "staticwebassets\\images\\solo\\wallpaperflare.com_wallpaper.jpg"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\james\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

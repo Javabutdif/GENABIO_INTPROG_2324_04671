@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lab_Activity_1._1
 build_property.RootNamespace = Lab_Activity_1._1
-build_property.ProjectDir = C:\Users\james\Desktop\Intprog\Lab Activity 1.1\
+build_property.ProjectDir = C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\james\Desktop\Intprog\Lab Activity 1.1
+build_property.MSBuildProjectDirectory = C:\Users\uu639\Desktop\Intprog\Lab Activity 1.1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/james/Desktop/Intprog/Lab Activity 1.1/Views/Home/Index.cshtml]
+[C:/Users/uu639/Desktop/Intprog/Lab Activity 1.1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/james/Desktop/Intprog/Lab Activity 1.1/Views/Home/left4dead.cshtml]
+[C:/Users/uu639/Desktop/Intprog/Lab Activity 1.1/Views/Home/left4dead.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsZWZ0NGRlYWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/james/Desktop/Intprog/Lab Activity 1.1/Views/Home/lol.cshtml]
+[C:/Users/uu639/Desktop/Intprog/Lab Activity 1.1/Views/Home/lol.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2wuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/james/Desktop/Intprog/Lab Activity 1.1/Views/Home/paladins.cshtml]
+[C:/Users/uu639/Desktop/Intprog/Lab Activity 1.1/Views/Home/paladins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWxhZGlucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/james/Desktop/Intprog/Lab Activity 1.1/Views/Home/Privacy.cshtml]
+[C:/Users/uu639/Desktop/Intprog/Lab Activity 1.1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/james/Desktop/Intprog/Lab Activity 1.1/Views/Home/slime.cshtml]
+[C:/Users/uu639/Desktop/Intprog/Lab Activity 1.1/Views/Home/slime.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzbGltZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/james/Desktop/Intprog/Lab Activity 1.1/Views/Home/solo.cshtml]
+[C:/Users/uu639/Desktop/Intprog/Lab Activity 1.1/Views/Home/solo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzb2xvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/james/Desktop/Intprog/Lab Activity 1.1/Views/Shared/Error.cshtml]
+[C:/Users/uu639/Desktop/Intprog/Lab Activity 1.1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/james/Desktop/Intprog/Lab Activity 1.1/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/uu639/Desktop/Intprog/Lab Activity 1.1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/james/Desktop/Intprog/Lab Activity 1.1/Views/_ViewImports.cshtml]
+[C:/Users/uu639/Desktop/Intprog/Lab Activity 1.1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/james/Desktop/Intprog/Lab Activity 1.1/Views/_ViewStart.cshtml]
+[C:/Users/uu639/Desktop/Intprog/Lab Activity 1.1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/james/Desktop/Intprog/Lab Activity 1.1/Views/Shared/_Layout.cshtml]
+[C:/Users/uu639/Desktop/Intprog/Lab Activity 1.1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hy2e9iz1ah

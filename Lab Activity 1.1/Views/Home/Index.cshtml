@@ -18,27 +18,31 @@
     <body class="home">
         <h1 class="text-center text-white">Photo Album</h1>
 
-    <div id="carouselExample" class="carousel slide">
+    <div id="carouselExample" class="carousel slide" style="width: 60%; margin: auto;">
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <a asp-action="lol" asp-controller="Home">
-                <img src="~/images/lol/main.jpg" class="d-block w-100" alt="..."></a>
+                    <img src="~/images/lol/main.jpg" class="d-block w-100" style="max-height: 400px;" alt="...">
+                </a>
             </div>
             <div class="carousel-item">
                 <a asp-action="paladins" asp-controller="Home">
-                <img src="~/images/paladins/main.jpg" class="d-block w-100" alt="..."></a>
+                    <img src="~/images/paladins/main.jpg" class="d-block w-100" style="max-height: 400px;" alt="...">
+                </a>
             </div>
             <div class="carousel-item">
                 <a asp-action="left4dead" asp-controller="Home">
-                <img src="~/images/l4d/icon.jpg" class="d-block w-100" alt="..."></a>
+                    <img src="~/images/l4d/icon.jpg" class="d-block w-100" style="max-height: 400px;" alt="...">
+                </a>
             </div>
             <div class="carousel-item">
                 <a asp-action="solo" asp-controller="Home">
-                <img src="~/images/solo/wallpaperflare.com_wallpaper.jpg" class="d-block w-100" alt="..."></a>
+                    <img src="~/images/solo/wallpaperflare.com_wallpaper.jpg" class="d-block w-100" style="max-height: 400px;" alt="...">
+                </a>
             </div>
             <div class="carousel-item">
                 <a asp-action="slime" asp-controller="Home">
-                    <img src="~/images/slime/991880.jpg" class="d-block w-100" alt="...">
+                    <img src="~/images/slime/991880.jpg" class="d-block w-100" style="max-height: 400px;" alt="...">
                 </a>
             </div>
         </div>
@@ -52,9 +56,11 @@
         </button>
     </div>
 
+ 
+
 
     
-    < script src = "~/lib/jquery/dist/jquery.min.js" ></script>
+    <script src = "~/lib/jquery/dist/jquery.min.js" ></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
  

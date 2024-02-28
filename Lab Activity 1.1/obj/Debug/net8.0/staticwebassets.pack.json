@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\arrow.jpg",
+      "PackagePath": "staticwebassets\\images\\arrow.jpg"
+    },
+    {
       "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\bg.jpg",
       "PackagePath": "staticwebassets\\images\\bg.jpg"
     },
@@ -59,6 +63,14 @@
     {
       "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\jocky.png",
       "PackagePath": "staticwebassets\\images\\l4d\\jocky.png"
+    },
+    {
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\left4deadNew.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\left4deadNew.jpg"
+    },
+    {
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\left4deadnewBg.jpg",
+      "PackagePath": "staticwebassets\\images\\l4d\\left4deadnewBg.jpg"
     },
     {
       "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\l4d\\logo1.png",
@@ -203,6 +215,10 @@
     {
       "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\mainbg.jpg",
       "PackagePath": "staticwebassets\\images\\lol\\mainbg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\newLolbg.jpg",
+      "PackagePath": "staticwebassets\\images\\lol\\newLolbg.jpg"
     },
     {
       "Id": "C:\\Users\\uu639\\Desktop\\Intprog\\Lab Activity 1.1\\wwwroot\\images\\lol\\text.jpg",
